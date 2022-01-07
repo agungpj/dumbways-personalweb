@@ -218,7 +218,6 @@ nav .button-contact a {
 .skill-1,
 .skill-2 {
   display: flex;
-  flex: 1 1 30rem;
   flex-direction: column;
   align-items: center;
 }
