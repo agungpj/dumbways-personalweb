@@ -28,8 +28,8 @@ function submitButton() {
   console.log(faq);
   console.log(email);
   console.log(subject);
-  console.log(cookie);
-  console.log(agree);
+  console.log(`${cookie} has been clicked !`);
+  console.log(`${agree} has been clicked !`);
 
   // validasi
 
